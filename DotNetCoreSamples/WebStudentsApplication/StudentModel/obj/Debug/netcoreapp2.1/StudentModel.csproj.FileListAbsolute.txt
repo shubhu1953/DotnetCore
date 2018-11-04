@@ -1,0 +1,9 @@
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\bin\Debug\netcoreapp2.1\StudentModel.deps.json
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\bin\Debug\netcoreapp2.1\StudentModel.dll
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\bin\Debug\netcoreapp2.1\StudentModel.pdb
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\obj\Debug\netcoreapp2.1\StudentModel.csproj.CoreCompileInputs.cache
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\obj\Debug\netcoreapp2.1\StudentModel.AssemblyInfoInputs.cache
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\obj\Debug\netcoreapp2.1\StudentModel.AssemblyInfo.cs
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\obj\Debug\netcoreapp2.1\StudentModel.dll
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\obj\Debug\netcoreapp2.1\StudentModel.pdb
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentModel\obj\Debug\netcoreapp2.1\StudentModel.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\bin\Debug\netcoreapp2.1\StudentRepository.deps.json
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\bin\Debug\netcoreapp2.1\StudentRepository.dll
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\bin\Debug\netcoreapp2.1\StudentRepository.pdb
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\bin\Debug\netcoreapp2.1\StudentModel.dll
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\bin\Debug\netcoreapp2.1\StudentModel.pdb
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.csprojAssemblyReference.cache
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.csproj.CoreCompileInputs.cache
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.AssemblyInfoInputs.cache
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.AssemblyInfo.cs
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.csproj.CopyComplete
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.dll
+C:\Users\Joy\Source\Repos\StudentsApplication\StudentRepository\obj\Debug\netcoreapp2.1\StudentRepository.pdb

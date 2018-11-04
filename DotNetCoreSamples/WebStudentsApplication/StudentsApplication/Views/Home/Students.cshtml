@@ -1,0 +1,28 @@
+﻿@model  List<Student>
+@{
+    Layout = null;
+}
+<head>
+    <link href="~/lib/bootstrap/dist/css/bootstrap.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container">
+        <table>
+            <tbody>
+                @foreach (var student in Model)
+                {
+                    <tr class="text-success">
+                        <td>@student.Name</td>
+                        <td>
+                            <a asp-controller="Home" asp-action="StudentInformation"
+                                asp-route-id="@student.Id">
+                                <input type="button" value="Show @student.Name information" class="btn btn-success" />
+                            </a>
+                        </td>
+                    </tr>
+                }
+            </tbody> 
+        </table>
+        <a class="btn btn-danger" asp-controller="Home" asp-action="AddStudent">Add student</a>
+</div>
+</body>

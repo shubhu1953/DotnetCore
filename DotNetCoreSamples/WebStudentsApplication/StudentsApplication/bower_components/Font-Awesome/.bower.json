@@ -1,0 +1,15 @@
+{
+  "name": "Font-Awesome",
+  "homepage": "https://github.com/FortAwesome/Font-Awesome",
+  "version": "5.4.2",
+  "_release": "5.4.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "5.4.2",
+    "commit": "06814cb4c2598338fd1d61a385dde56e67330cca"
+  },
+  "_source": "https://github.com/FortAwesome/Font-Awesome.git",
+  "_target": "5.4.2",
+  "_originalSource": "Font-Awesome",
+  "_direct": true
+}
